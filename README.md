@@ -2,4 +2,5 @@
 
 This account is associated with [wangjianze96](https://github.com/wangjianze96/).
 
-The repository is just a `Hello, World!` :wink:
+- Research Interests: Memory Circuitry; Microarchitecture
+- Current Position: Ph.D. Student at NUS.
